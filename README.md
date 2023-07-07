@@ -10,5 +10,5 @@ A project undertaken as part of FreeCodeCamps "Front-End libraries" certificatio
 * HTML
   
 ### My Socials
-[Twitter](https://twitter.com/LukeAWBowman)
-[Linkedin](https://www.linkedin.com/in/luke-bowman-1801a8188/)
+* [Twitter](https://twitter.com/LukeAWBowman)
+* [Linkedin](https://www.linkedin.com/in/luke-bowman-1801a8188/)
